@@ -36,7 +36,7 @@ Supported Providers:
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 0px;
-  --background-overlay: rgb(0,0,0,0.27);
+  --background-overlay: rgb(0,0,0,0.5);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
